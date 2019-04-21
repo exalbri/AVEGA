@@ -22,7 +22,8 @@ troubleshooting:
 Based on the project requirements, classes need to be incorporated to the code in order to accomplish the requirements.  Updates will be documented here...
 
 Changelog:
-List of changes are listed her in chronological order.  updates will be documented here...
+List of changes are listed her in chronological order.  updates will be documented here.
+BK.py is for now only cheching that the power supply and the PC are communicating, the file needs ome selection statements.
 
 
 
