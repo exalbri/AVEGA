@@ -23,7 +23,7 @@ Based on the project requirements, classes need to be incorporated to the code i
 
 Changelog:
 List of changes are listed her in chronological order.  updates will be documented here.
-BK.py is for now only cheching that the power supply and the PC are communicating, the file needs ome selection statements.
+BK.py is for now only cheching that the power supply and the PC are communicating, the file needs some selection statements.
 
 
 
