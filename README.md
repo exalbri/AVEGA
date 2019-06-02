@@ -19,11 +19,15 @@ PSRampUp.py The file where the user enteres the desired inputs to be performed b
 Another file, an executable file, must be created after the main code is finished. the file will ask the user to enter desired information to configure the testig of a UUT.
 
 troubleshooting:
-Based on the project requirements, classes need to be incorporated to the code in order to accomplish the requirements.  Updates will be documented here...
+Based on the project requirements, classes need to be incorporated to the code in order to accomplish the requirements.
+Unable to cretae a log file due to deadline of project, also I wanted to create a sigle exe file to ilustrate of all the functionallity of the UUT, but time did not allow.
 
 Changelog:
 List of changes are listed her in chronological order.  updates will be documented here.
 BK.py is for now only cheching that the power supply and the PC are communicating, the file needs some selection statements.
+BK.py was updated with classes and function definitions to accomplish the task. Note that in order to test the features two separate EXE files can be created, one per each file, that is BK.py and another one for PSRampUP.py
+To create a stand alone executable I installed PyInstaller.
+Then,  I navigate to the location of the file, i th ecommand prompt type < pyinstaller --onefile <your_script_name>.py >
 
 
 
