@@ -4,8 +4,8 @@ Author: Vega
 This version prompts the user to enter desired inputs to test a UUT at
 different ranges to help validate its functionality.
 '''
-
 import BK
+import time
 
 if __name__ == "__main__":
     PowerSupply = raw_input("Enter Power Supply serial port of the Modem: ")
